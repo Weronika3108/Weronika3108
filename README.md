@@ -4,6 +4,7 @@ My name is Weronika, and I’m a software tester focused on **continuous growth*
 During my learning process, I am mastering the skills of **writing test cases, reporting defects and creating test reports.** I'm focusing on **exploratory testing, testing of websites and mobile applications**,** REST API testing**. I know how to use **SQL, Trello, X-Ray, Jira, Confluence, Postman, GIT**. The result of my work can be seen in my **PORTFOLIO**
 
 📈 EXPERIENCE
+
 • During practical course of testing by testerzy.pl I worked on project involving Set Top Boxes (STB) for Liberty Global
 
 • I have written many test cases and defects reports during my own projects: 
@@ -21,6 +22,7 @@ During my learning process, I am mastering the skills of **writing test cases, r
 • Effectively used various programs for bug tracking: **Jira, Dev Azuro, TestiLink**
 
 🚀 PROJECTS
+
 Selenium
 
 • Robotframework tutorial
@@ -54,6 +56,7 @@ Postgres
 • FreeCodeCamp SQL tutorial
 
 🎓 CERTIFICATES AND BADGES
+
 Testing-Library
 
 • Podstawy manualnego testowania oprogramowania
