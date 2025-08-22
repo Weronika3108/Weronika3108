@@ -20,9 +20,6 @@ During my learning process, I am mastering the skills of **writing test cases, r
 
 • Effectively used various programs for bug tracking: **Jira, Dev Azuro, TestiLink**
 
-🧰 EXPERTISE
-Postman Python Git GitHub Linux Google Chrome Postgres Selenium Confluence PyCharm Django Jira Kibana
-
 🚀 PROJECTS
 Selenium
 
