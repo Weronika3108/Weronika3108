@@ -1,23 +1,23 @@
 ## Welcome 👋
 
 My name is Weronika, and I’m a technical support transfering to software tester. I'm commited to learn every skill needed to perfectly perform as Quality Assurance. I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
-During my learning process, I am mastering the skills of **writing test cases, reporting defects and creating test reports.** I'm focusing on **exploratory testing, testing of websites and mobile applications**, **REST API testing**. I know how to use **SQL, Trello, X-Ray, Jira, Confluence, Postman, GIT**. The result of my work can be seen in my **PORTFOLIO**
+During my learning process I am mastering the skills of **writing test cases, reporting defects and creating test reports.** I'm focusing on **exploratory testing, testing of websites and mobile applications**, **REST API testing**. I know how to use **SQL, Trello, X-Ray, Jira, Confluence, Postman, GIT**. The result of my work can be seen in my **PORTFOLIO**
 
 📈 EXPERIENCE
 
-• During practical course of testing by testerzy.pl I worked on project involving Set Top Boxes (STB) for Liberty Global
+• During practical course of testing by testerzy.pl I tested and found bugs in various programs and websites: 
 
 • I have written many test cases and defects reports during my own projects: 
 
-• I found bugs during exploratory testing on popular websites 
+• I found bugs during exploratory testing on popular websites such as: BurgerKing, dobrzemitu, Ryanair, 
 
 • Launched performance testing using Lighthouse
 
 • Conducted smoke, sanity, and regression tests
 
-• Produced technical documentation and reports
+• Produced technical documentation
 
-• I have developed a collection of the most frequently searched defects
+• I have developed a collection of the most frequently found defects
 
 • Effectively used various programs for bug tracking: **Jira, Dev Azuro, TestiLink**
 
