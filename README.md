@@ -1,9 +1,32 @@
 ## Welcome 🎉
 
 I'm Weronika, technical support 🛠 and Command Center Operator ⚙ transfering to software tester 🔎. I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
-During my learning process I am mastering the skills of **writing test cases, reporting defects and creating test reports.** I'm focusing on **exploratory testing, testing of websites and mobile applications**, **REST API testing**. I know how to use **SQL, Trello, X-Ray, Jira, Confluence, Postman, GIT**. I work primarily with TestLink and Jira, applying theoretical knowledge to practice while verifying that software perform correctly.The result of my work can be seen in my **PORTFOLIO**
+During my learning process I am mastering the skills of **writing test cases, reporting defects and creating test reports.** I'm focusing on **exploratory testing, testing of websites and mobile applications**, **REST API testing**. I know how to use **SQL, Trello, X-Ray, Jira, Confluence, Postman, GIT**. I work primarily with TestLink and Jira, applying theoretical knowledge to practice while verifying that software perform correctly.
 
-📈 EXPERIENCE
+📈 You can find the results of my work in my **PORTFOLIO**
+_____________________________________________________________________________________________________________________________________________________________-
+
+Testing Documentation & Deliverables:
+
+• Test Cases – Developed test cases to validate software functionality and verify requirements
+
+• Test Scenarios – Created testing scenarios covering various conditions and expected outcomes
+
+• Test Reports – Documented test execution results with detailed quality assessments
+
+• Defect Reports – Identified and reported bugs with clear reproduction steps and severity levels
+
+• Test Plans – Prepared comprehensive test plans defining scope, strategy, and approach
+
+🥇 **Certifications & Training**
+
+To enhance my testing expertise, I have completed the following courses and passed various exams:
+
+• ISTQB Foundation Level – Certification providing comprehensive knowledge of software testing fundamentals and best practices
+
+• The Basics of Manual Software Testing – Udemy course by Software Tester covering core manual testing techniques ([Course Link])
+
+
 
 • During practical course of testing by testerzy.pl I tested and found bugs in various programs and websites: 
 
