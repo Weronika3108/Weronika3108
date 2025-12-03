@@ -1,7 +1,7 @@
 ## Welcome 👋
 
-I'm Weronika, technical support🛠 transfering to software tester 🔎. I'm commited to learn every skill needed to perfectly perform as Quality Assurance. I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
-During my learning process I am mastering the skills of **writing test cases, reporting defects and creating test reports.** I'm focusing on **exploratory testing, testing of websites and mobile applications**, **REST API testing**. I know how to use **SQL, Trello, X-Ray, Jira, Confluence, Postman, GIT**. I speak english on B2 level which is  The result of my work can be seen in my **PORTFOLIO**
+I'm Weronika, technical support 🛠 transfering to software tester 🔎. I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
+During my learning process I am mastering the skills of **writing test cases, reporting defects and creating test reports.** I'm focusing on **exploratory testing, testing of websites and mobile applications**, **REST API testing**. I know how to use **SQL, Trello, X-Ray, Jira, Confluence, Postman, GIT**. I work primarily with TestLink and Jira, applying theoretical knowledge to practice while verifying that software perform correctly.The result of my work can be seen in my **PORTFOLIO**
 
 📈 EXPERIENCE
 
@@ -65,6 +65,8 @@ Testing-Library
 
 • ISTQB Foundation Level
 
+• Cambridge Certificate in B2 
+
 Postman
 
 • Postman: The Complete Guide - REST API Testing
@@ -88,10 +90,5 @@ Selenium
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
