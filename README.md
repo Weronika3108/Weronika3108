@@ -1,6 +1,6 @@
-## Welcome 👋
+## Welcome 🎉
 
-I'm Weronika, technical support 🛠 transfering to software tester 🔎. I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
+I'm Weronika, technical support 🛠 and Command Center Operator ⚙ transfering to software tester 🔎. I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
 During my learning process I am mastering the skills of **writing test cases, reporting defects and creating test reports.** I'm focusing on **exploratory testing, testing of websites and mobile applications**, **REST API testing**. I know how to use **SQL, Trello, X-Ray, Jira, Confluence, Postman, GIT**. I work primarily with TestLink and Jira, applying theoretical knowledge to practice while verifying that software perform correctly.The result of my work can be seen in my **PORTFOLIO**
 
 📈 EXPERIENCE
