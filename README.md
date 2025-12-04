@@ -3,6 +3,7 @@
 <img src="https://github.com/user-attachments/assets/e17456b8-cffa-4ba3-813a-5011ab28ab7a" alt="Header" width="100%">
 
 I'm Weronika Ośka
+
 **Software Tester | ISTQB Certified**
  
 • I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
