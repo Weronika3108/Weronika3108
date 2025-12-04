@@ -1,6 +1,8 @@
-## Welcome 🎉
+
 
 <img src="https://github.com/user-attachments/assets/e17456b8-cffa-4ba3-813a-5011ab28ab7a" alt="Header" width="100%">
+
+## Welcome 🎉
 
 **I'm Weronika Oska +1 year commercial expierience ISTQB Certified Software Tester**
  
