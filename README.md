@@ -1,7 +1,11 @@
-## Welcome 🎉
+## Welcome 🎉![Hello](images/hello.gif)
 
-I'm Weronika, technical support 🛠 and Command Center Operator ⚙ transfering to software tester 🔎. I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
-During my learning process I am mastering the skills of **writing test cases, reporting defects and creating test reports.** I'm focusing on **exploratory testing, testing of websites and mobile applications**, **REST API testing**. I know how to use **SQL, Trello, X-Ray, Jira, Confluence, Postman, GIT**. I work primarily with TestLink and Jira, applying theoretical knowledge to practice while verifying that software perform correctly.
+
+
+I'm Weronika, Technical Support 🛠 and Command Center Operator ⚙ transfering to software tester 🔎. 
+I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
+I am currently mastering the skills of **writing test cases, reporting defects and creating test reports.** 
+I'm focusing on **exploratory testing, testing of websites and mobile applications**, **REST API testing**. I use **SQL, Trello, X-Ray, Jira, Confluence, Postman, GIT, Devops** on a daily basis. I work primarily with TestLink and Jira, applying theoretical knowledge from ISTQB to practice.
 
 📈 You can find the results of my work in my **PORTFOLIO**
 _____________________________________________________________________________________________________________________________________________________________-
@@ -18,13 +22,17 @@ Testing Documentation & Deliverables:
 
 • Test Plans – Prepared comprehensive test plans defining scope, strategy, and approach
 
-🥇 **Certifications & Training**
+🥇 **Certifications**
 
-To enhance my testing expertise, I have completed the following courses and passed various exams:
+To enhance my testing expertise, I have prepared on my own and passed various exams:
 
-• ISTQB Foundation Level – Certification providing comprehensive knowledge of software testing fundamentals and best practices
+• Theory: ISTQB Foundation Level – Certification providing comprehensive knowledge of software testing fundamentals and best practices
 
-• The Basics of Manual Software Testing – Udemy course by Software Tester covering core manual testing techniques ([Course Link])
+• Practice: Praktyczny kurs testowania oprogramowania – Udemy course by Software Tester covering core manual testing techniques ([Course Link])
+
+• English: Cambridge Certificate B2
+
+• Germany: Currently preparing for the German B1 certification exam to expand my horizons and connect with opportunities in German-speaking regions
 
 
 
