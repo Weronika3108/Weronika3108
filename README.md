@@ -1,4 +1,6 @@
-![Header]![Image](https://github.com/user-attachments/assets/e17456b8-cffa-4ba3-813a-5011ab28ab7a)
+## Welcome 🎉
+
+![Header]![Image](images/banner.png)(https://github.com/user-attachments/assets/e17456b8-cffa-4ba3-813a-5011ab28ab7a)
 
 I'm Weronika, Technical Support 🛠 and Command Center Operator ⚙ transfering to software tester 🔎. 
 I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
