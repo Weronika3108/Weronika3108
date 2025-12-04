@@ -6,8 +6,7 @@
 
 **I'm Weronika Oska +1 year commercial expierience ISTQB Certified Software Tester**
  
-• I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
-• I'm currently mastering the skills of **writing test cases, reporting defects and creating test reports.** 
+• I was a Technical Support 🛠 that converted to Software Testing world 🔎. • I always put strong emphasis on **analitical thinking, delivering top quality** and **pay close attention** to every detail of my work. • I'm currently mastering the skills of **writing test cases, reporting defects and creating test reports.** 
 • My focus is on **exploratory testing, testing of websites and mobile applications**, **REST API testing**. 
 • I use **Testlink, Jira, Trello, X-Ray, Confluence, Postman, GIT, Devops** on a daily basis. I believe in make-do approach, teamwork, collaboration, taking initiative in our learning process and being always optimistic.
 
