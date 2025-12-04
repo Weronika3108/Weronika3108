@@ -1,6 +1,6 @@
 ## Welcome 🎉![Hello](images/hello.gif)
 
-
+![Header](images/banner.png)
 
 I'm Weronika, Technical Support 🛠 and Command Center Operator ⚙ transfering to software tester 🔎. 
 I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
