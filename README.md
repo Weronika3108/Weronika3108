@@ -2,12 +2,15 @@
 
 <img src="https://github.com/user-attachments/assets/e17456b8-cffa-4ba3-813a-5011ab28ab7a" alt="Header" width="100%">
 
-I'm Weronika, Technical Support 🛠 and Command Center Operator ⚙ transfering to software tester 🔎. 
-I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
-I am currently mastering the skills of **writing test cases, reporting defects and creating test reports.** 
-I'm focusing on **exploratory testing, testing of websites and mobile applications**, **REST API testing**. I use **SQL, Trello, X-Ray, Jira, Confluence, Postman, GIT, Devops** on a daily basis. I work primarily with TestLink and Jira, applying theoretical knowledge from ISTQB to practice.
+I'm Weronika Ośka
+**Software Tester | ISTQB Certified**
+ 
+• I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
+• I'm currently mastering the skills of **writing test cases, reporting defects and creating test reports.** 
+• My focus is on **exploratory testing, testing of websites and mobile applications**, **REST API testing**. 
+• I use **Testlink, Jira, Trello, X-Ray, Confluence, Postman, GIT, Devops** on a daily basis.
 
-📈 You can find the results of my work in my **PORTFOLIO**
+📈 You can find some of my projects in my **PORTFOLIO**
 _____________________________________________________________________________________________________________________________________________________________-
 
 Testing Documentation & Deliverables:
