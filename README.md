@@ -7,7 +7,7 @@
 • I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
 • I'm currently mastering the skills of **writing test cases, reporting defects and creating test reports.** 
 • My focus is on **exploratory testing, testing of websites and mobile applications**, **REST API testing**. 
-• I use **Testlink, Jira, Trello, X-Ray, Confluence, Postman, GIT, Devops** on a daily basis.
+• I use **Testlink, Jira, Trello, X-Ray, Confluence, Postman, GIT, Devops** on a daily basis. I believe in make-do approach, teamwork, collaboration, taking initiative in our learning process and being always optimistic.
 
 📈 You can find some of my projects in my **PORTFOLIO**
 ______________________________________________________________________________________________________________________________________________________
