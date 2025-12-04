@@ -37,6 +37,8 @@ To enhance my testing expertise, I have prepared on my own and passed various ex
 
 • Germany: Currently preparing for the German B1 certification exam to expand my horizons and connect with opportunities in German-speaking regions
 
+___________________________________________________________________________________________________________________________________
+
 
 
 • During practical course of testing by testerzy.pl I tested and found bugs in various programs and websites: 
