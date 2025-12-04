@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/e17456b8-cffa-4ba3-813a-5011ab28ab7a" alt="Header" width="100%">
 
-**I'm Weronika Oska | +1 year expierience ISTQB Certified Software Tester**
+**I'm Weronika Oska +1 year commercial practical expierience ISTQB Certified Software Tester**
  
 • I put strong emphasis on **delivering top quality** and **pay close attention** to every detail of my work.
 • I'm currently mastering the skills of **writing test cases, reporting defects and creating test reports.** 
