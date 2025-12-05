@@ -45,7 +45,7 @@ To enhance my testing expertise, I have prepared on my own and passed various ex
 
 • Practice: Praktyczny kurs testowania oprogramowania – Udemy course by Software Tester covering core manual testing techniques ([Course Link])
 
-• English: Cambridge Certificate B2
+• English: Cambridge FCE Certificate (B2 Level)
 
 • Germany: Currently preparing for the German B1 certification exam to expand my horizons and connect with opportunities in German-speaking regions
 
