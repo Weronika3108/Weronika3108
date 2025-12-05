@@ -43,6 +43,10 @@ Ulubione blogi i książki | Qultura
 
  [Testerzy](https://testerzy.pl)
 
+ [Wyszkolę Was](https://www.wyszkolewas.com.pl/blog/)
+
+ [Testowanie oprogramowania](https://ksiazka.testowanieoprogramowania.pl/)
+
 • During practical course of testing by testerzy.pl I tested and found bugs in various programs and websites: 
 
 • I have written many test cases and defects reports during my own projects: 
