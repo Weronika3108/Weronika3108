@@ -8,7 +8,7 @@
  
 I was a Technical Support 🛠 that converted to Software Tester 🔎
 
-☑️ [Visit my LinkedIn profile](https://www.linkedin.com/in/twoj-profil/)
+☑️ [Check my exprierience on Linkedin:](https://www.linkedin.com/in/twoj-profil/)
 
 • I put strong emphasis on **analitical thinking** and  **delivering top quality** to every detail of my work. 
 
