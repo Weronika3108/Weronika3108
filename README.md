@@ -10,7 +10,9 @@ I was a Technical Support 🛠 that converted to Software Tester 🔎
 
 ☑️ [Visit my LinkedIn profile](https://www.linkedin.com/in/twoj-profil/)
 
-• I always put strong emphasis on **analitical thinking** and  **delivering top quality** to every detail of my work. • I'm currently mastering the skills of **writing test cases, reporting defects and creating test reports.** 
+• I always put strong emphasis on **analitical thinking** and  **delivering top quality** to every detail of my work. 
+
+• I'm currently mastering the skills of **writing test cases, reporting defects and creating test reports.** 
 
 • My focus is on **exploratory, websites and mobile applications testing**, **REST API**. 
 
