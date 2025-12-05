@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
 Ulubione blogi i książki | Qultura 
 
-# [Testerzy](https://testerzy.pl)
+ [Testerzy](https://testerzy.pl)
 
 • During practical course of testing by testerzy.pl I tested and found bugs in various programs and websites: 
 
