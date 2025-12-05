@@ -20,10 +20,8 @@ I was a Technical Support 🛠 that converted to Software Tester 🔎
 
 •  I was born natural tester because for me **life is just constant learning and testing new paths and options**! :).
 
-______________________________________________________________________________________________________________________________________________________
 
-
-###📈 You can find some of my projects in my **PORTFOLIO**
+## 📈 You can find some of my projects in my **PORTFOLIO**
 
 Testing Documentation & Deliverables:
 
@@ -37,9 +35,6 @@ Testing Documentation & Deliverables:
 
 • Test Plans – Prepared comprehensive test plans defining scope, strategy, and approach
 
-______________________________________________________________________________________________________________________________________________________
-
-
 ## 🥇 **Certifications**
 
 To enhance my testing expertise, I have prepared on my own and passed various exams:
@@ -52,8 +47,6 @@ To enhance my testing expertise, I have prepared on my own and passed various ex
 
 • Germany: Currently preparing for the German B1 certification exam to expand my horizons and connect with opportunities in German-speaking regions
 
-______________________________________________________________________________________________________________________________________________________
-
 
 ## **📚 Favourites**
 
@@ -62,8 +55,6 @@ ________________________________________________________________________________
  [Wyszkolę Was](https://www.wyszkolewas.com.pl/blog/)
 
  [Testowanie oprogramowania](https://ksiazka.testowanieoprogramowania.pl/)
- 
-______________________________________________________________________________________________________________________________________________________
 
 
 ## 💡 **Continuous Learning**
