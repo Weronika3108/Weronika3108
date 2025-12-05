@@ -43,7 +43,7 @@ To enhance my testing expertise, I have prepared on my own and passed various ex
 
 ___________________________________________________________________________________________________________________________________
 
-Ulubione blogi i książki | Qultura 
+## **📚 Favourites**
 
  [Testerzy](https://testerzy.pl)
 
