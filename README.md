@@ -18,7 +18,7 @@ I was a Technical Support 🛠 that converted to Software Tester 🔎
 
 • I believe in **make-do approach, teamwork, collaboration, taking initiative in our learning process**. 
 
-### I was born natural tester because for me life is just constant learning and testing new paths and options! :).
+#### I was born natural tester because for me life is just constant learning and testing new paths and options! :).
 
 📈 You can find some of my projects in my **PORTFOLIO**
 ______________________________________________________________________________________________________________________________________________________
