@@ -29,7 +29,7 @@ Testing Documentation & Deliverables:
 
 • Test Plans – Prepared comprehensive test plans defining scope, strategy, and approach
 
-🥇 **Certifications**
+## 🥇 **Certifications**
 
 To enhance my testing expertise, I have prepared on my own and passed various exams:
 
@@ -50,6 +50,16 @@ Ulubione blogi i książki | Qultura
  [Wyszkolę Was](https://www.wyszkolewas.com.pl/blog/)
 
  [Testowanie oprogramowania](https://ksiazka.testowanieoprogramowania.pl/)
+
+
+## 💡 **Continuous Learning**
+My learning journey never stops. Currently, I'm enhancing my testing skills through the following resources:
+
+The Complete 2023 Software Testing Bootcamp
+Rest API Testing (Automation) from Scratch-Rest Assured Java
+
+Feel free to explore my portfolio and get in touch if you'd like to collaborate or discuss anything related to software testing. Let's ensure the software we test is nothing short of impeccable!
+
 
 • During practical course of testing by testerzy.pl I tested and found bugs in various programs and websites: 
 
