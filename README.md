@@ -6,7 +6,7 @@
 
 **I'm Weronika Oska +1 year commercial expierience ISTQB Certified Software Tester**
  
-• I was a Technical Support 🛠 that converted to Software Tester 🔎
+I was a Technical Support 🛠 that converted to Software Tester 🔎
 
 ☑️ [Visit my LinkedIn profile](https://www.linkedin.com/in/twoj-profil/)
 
