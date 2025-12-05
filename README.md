@@ -18,10 +18,12 @@ I was a Technical Support 🛠 that converted to Software Tester 🔎
 
 • I believe in **make-do approach, teamwork, collaboration, taking initiative in our learning process**. 
 
-#### I was born natural tester because for me life is just constant learning and testing new paths and options! :).
+•  I was born natural tester because for me **life is just constant learning and testing new paths and options**! :).
 
-📈 You can find some of my projects in my **PORTFOLIO**
 ______________________________________________________________________________________________________________________________________________________
+
+
+###📈 You can find some of my projects in my **PORTFOLIO**
 
 Testing Documentation & Deliverables:
 
@@ -35,6 +37,9 @@ Testing Documentation & Deliverables:
 
 • Test Plans – Prepared comprehensive test plans defining scope, strategy, and approach
 
+______________________________________________________________________________________________________________________________________________________
+
+
 ## 🥇 **Certifications**
 
 To enhance my testing expertise, I have prepared on my own and passed various exams:
@@ -47,7 +52,8 @@ To enhance my testing expertise, I have prepared on my own and passed various ex
 
 • Germany: Currently preparing for the German B1 certification exam to expand my horizons and connect with opportunities in German-speaking regions
 
-___________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________
+
 
 ## **📚 Favourites**
 
@@ -56,6 +62,8 @@ ________________________________________________________________________________
  [Wyszkolę Was](https://www.wyszkolewas.com.pl/blog/)
 
  [Testowanie oprogramowania](https://ksiazka.testowanieoprogramowania.pl/)
+ 
+______________________________________________________________________________________________________________________________________________________
 
 
 ## 💡 **Continuous Learning**
@@ -65,92 +73,3 @@ The Complete 2023 Software Testing Bootcamp
 Rest API Testing (Automation) from Scratch-Rest Assured Java
 
 Feel free to explore my portfolio and get in touch if you'd like to collaborate or discuss anything related to software testing. Let's ensure the software we test is nothing short of impeccable!
-
-
-• During practical course of testing by testerzy.pl I tested and found bugs in various programs and websites: 
-
-• I have written many test cases and defects reports during my own projects: 
-
-• I found bugs during exploratory testing on popular websites such as: BurgerKing, dobrzemitu, Ryanair, 
-
-• Launched performance testing using Lighthouse
-
-• Conducted smoke, sanity, and regression tests
-
-• Produced technical documentation
-
-• I have developed a collection of the most frequently found defects
-
-• Effectively used various programs for bug tracking: **Jira, Dev Azuro, TestiLink**
-
-🚀 PROJECTS
-
-Selenium
-
-• Robotframework tutorial
-
-• Selenium WebDriver with Java
-
-Python
-
-• 100 Days of Code The Complete Python Pro Bootcamp for 2023
-
-• FreeCodeCamp Python tutorial
-
-Postman
-
-• Valentino Artisan Coffee House API
-
-• Spotify API testing
-
-• 30 Days of Postman Coding Challenge for Developers
-
-DjangoREST
-
-• DRF tutorial
-
-Rest Assured
-
-• REST API Testing Automation from Scratch Rest Assured Java
-
-Postgres
-
-• FreeCodeCamp SQL tutorial
-
-🎓 CERTIFICATES AND BADGES
-
-Testing-Library
-
-• Podstawy manualnego testowania oprogramowania
-
-• The Complete 2024 Software Testing Bootcamp
-
-• ISTQB Foundation Level
-
-• Cambridge Certificate in B2 
-
-Postman
-
-• Postman: The Complete Guide - REST API Testing
-
-• API Test Automation
-
-• 30 days of Postman - for developers
-
-Postgres
-
-• Intro to SQL
-
-• The Complete SQL Bootcamp: Go from Zero to Hero
-
-Selenium
-
-• Robot Framework Test Automation - Level 1 (Selenium)
-
-<!--
-**Weronika3108/Weronika3108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
