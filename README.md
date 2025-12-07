@@ -14,8 +14,6 @@ I was a Technical Support 🛠 that converted to Software Tester 🔎
 
 • I'm currently mastering the skills of **writing test cases, reporting defects and creating test reports.** 
 
-• My focus is on **exploratory, websites and mobile applications testing**, **REST API**. 
-
 • I use **Testlink, Jira, Trello, X-Ray, GIT, Devops** on a daily basis. 
 
 • I believe in **make-do approach, teamwork, collaboration, taking initiative**. 
